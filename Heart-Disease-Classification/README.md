@@ -52,7 +52,7 @@ It utilizes **Python (Flask), Machine Learning (Scikit-learn), and SQL** to buil
 
 ### Steps to Run  
 1️⃣ **Clone the repository:**  
-```sh
+
 git clone https://github.com/alwaysdaya123/Heart-Disease-Classification.git
 2️⃣ Install dependencies:
 pip install -r requirements.txt
@@ -71,9 +71,9 @@ http://localhost:5000
 🔹 Feel free to contribute! Fork the repository, make improvements, and submit a pull request.
 
 📫 Contact
-📧 Email: alwaysdaya123@gmail.com
-🔗 LinkedIn: Rentamallu Dayakar
-🚀 GitHub: alwaysdaya123
+📧 Email: sakshi10044@gmail.com
+🔗 LinkedIn: Sakshi Yadav
+🚀 GitHub: Sakshi Bittu
 
 🌟 If you find this project useful, don't forget to star ⭐ the repository!
 
